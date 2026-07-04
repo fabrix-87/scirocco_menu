@@ -102,7 +102,7 @@
           "name": "Coppo Calamari e Gamberetti",
           "nameEn": "Fried squid and small shrimps cone",
           "price": 11.0,
-          "image": ""
+          "image": "coppo-gamberi-calamari.png"
         },
         {
           "id": "c2",
@@ -144,7 +144,7 @@
           "name": "Pane e Panelle",
           "nameEn": "Traditional bread roll with panelle",
           "price": 6.0,
-          "image": ""
+          "image": "pane-panelle.png"
         },
         {
           "id": "s3",
@@ -173,7 +173,8 @@
           "nameEn": "Mixed battered fried treats",
           "price": 10.0,
           "image": "",
-          "description": "Anelli di cipolla, cavolfiore panato, mozzarella stick, pepite di pulled pork, pepite di formaggio, peperoncini ripieni di formaggio cremoso"
+          "description": "Anelli di cipolla, cavolfiore panato, mozzarella stick, pepite di pulled pork, pepite di formaggio, peperoncini ripieni di formaggio cremoso",
+          "descriptionEn": "Onion rings, breaded cauliflower, mozzarella sticks, pulled pork bites, cheese bites, stuffed jalapeños"
         }
       ]
     },
@@ -188,7 +189,8 @@
           "nameEn": "Mixed salad",
           "price": 7.0,
           "image": "",
-          "description": "Lattuga, pomodoro, mais, scaglie di grana, tonno"
+          "description": "Lattuga, pomodoro, mais, scaglie di grana, tonno",
+          "descriptionEn": "Lettuce, tomato, corn, grana flakes, tuna"
         }
       ]
     },
@@ -216,21 +218,21 @@
           "name": "Birra dello Stretto",
           "nameEn": "Typical Sicilian Beer",
           "price": 3.0,
-          "image": ""
+          "image": "birra-dello-stretto.png"
         },
         {
           "id": "v4",
           "name": "Aperol Spritz / Campari Spritz",
           "nameEn": "Spritz Cocktail",
           "price": 7.0,
-          "image": ""
+          "image": "spritz.png"
         },
         {
           "id": "v5",
           "name": "Gin Tonic",
           "nameEn": "Gin Tonic Cocktail",
           "price": 7.0,
-          "image": ""
+          "image": "gin-tonic.png"
         },
         {
           "id": "v6",

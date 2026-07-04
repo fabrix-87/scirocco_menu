@@ -5,7 +5,7 @@ import menuData from "@/data/menu.json";
 import MenuSection from "@/components/menu-section";
 import { MenuData } from "@/types/menu";
 import Image from "next/image";
-import { Menu, X, Globe } from "lucide-react"; // Utilizziamo icone standard e leggere
+import { Menu, X, Globe } from "lucide-react"; 
 
 const data = menuData as MenuData;
 
@@ -78,23 +78,15 @@ export default function HomePage() {
           onClick={() => setLang(lang === "it" ? "en" : "it")}
           className="flex items-center gap-1.5 text-xs font-medium text-muted-foreground hover:text-foreground transition-colors cursor-pointer select-none"
         >
-          <svg 
-            xmlns="http://www.w3.org/2000/svg" 
-            width="24" 
-            height="24" 
-            viewBox="0 0 24 24" 
+          <Globe
             fill="none" 
             stroke="currentColor" 
             strokeWidth="2" 
             strokeLinecap="round" 
             strokeLinejoin="round" 
-            className="lucide lucide-globe h-3.5 w-3.5" 
+            className="h-3.5 w-3.5" 
             aria-hidden="true"
-          >
-            <circle cx="12" cy="12" r="10"></circle>
-            <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path>
-            <path d="M2 12h20"></path>
-          </svg>
+          />
           <span className="uppercase tracking-wider font-semibold">
             <span className={lang === "it" ? "text-primary" : ""}>IT</span>
             <span className="text-card-border mx-1">/</span>
@@ -134,13 +126,15 @@ export default function HomePage() {
       <div className="container mx-auto px-4 py-12 max-w-5xl">
         {/* Header Standard */}
         <header className="mb-12 text-center">
-          <div className="relative mx-auto h-30 w-57.5">
+          <div className="relative mx-auto w-112.5 h-60">
             <Image
               src="/images/scirocco-logo.png"
               alt="Scirocco 2025"
               fill
               className="object-contain"
               priority
+              sizes="(max-width: 640px) 280px, 450px"   
+              loading="eager"   
             />
           </div>
           <p className="mt-4 text-[11px] uppercase tracking-[0.3em] text-primary font-medium">

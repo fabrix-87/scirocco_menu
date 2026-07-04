@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  /* Palette Colori Scirocco mappata sui token del sito Replit */
+  /* Palette Colori Scirocco */
   --color-scirocco-bg: #110d0a;
 
   --color-card: #1a1510;
