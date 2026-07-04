@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+  /* Palette Colori Scirocco mappata sui token del sito Replit */
+  --color-scirocco-bg: #110d0a;
+
+  --color-card: #1a1510;
+  --color-card-border: #2d241c;
+  --color-border: #2d241c;
+  --color-secondary: #18130e;
+
+  --color-foreground: #f4f1ea;
+  --color-muted-foreground: #9e948a;
+  --color-primary: #dca842;
+  --color-scirocco-line: #3d3025;
+
+  /* Caricamento Font */
+  --font-sans: var(--font-sans), Arial, sans-serif;
+}
+
+:root {
+  --background: #110d0a;
+  --foreground: #f4f1ea;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Nasconde la scrollbar per elementi con scorrimento orizzontale pulito */
+@utility no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+  &::-webkit-scrollbar {
+    display: none; /* Chrome, Safari and Opera */
+  }
+}

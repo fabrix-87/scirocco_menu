@@ -1,0 +1,362 @@
+{
+  "restaurantName": "Scirocco 2025",
+  "categories": [
+    {
+      "id": "panini-carne",
+      "title": "I Nostri Panini di Carne",
+      "subtitle": "Street Food Meat Sandwiches",
+      "items": [
+        {
+          "id": "p1",
+          "name": "Panino con Carne di Cavallo",
+          "nameEn": "Horse meat sandwich",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "p2",
+          "name": "Panino con Polpette di Cavallo",
+          "nameEn": "Horse meatballs sandwich",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "p3",
+          "name": "Panino Salsiccia Semplice",
+          "nameEn": "Plain sausage sandwich",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "p4",
+          "name": "Panino Salsiccia Condita",
+          "nameEn": "Seasoned sausage sandwich",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "p5",
+          "name": "Panino Cotoletta di Pollo",
+          "nameEn": "Chicken cutlet sandwich",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "p6",
+          "name": "Hamburgher Classico",
+          "nameEn": "Hamburger",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "p7",
+          "name": "Panino Straccetti di Pollo DELUXE",
+          "nameEn": "Special chicken strips sandwich",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "p8",
+          "name": "Panino Prosciutto e Formaggio",
+          "nameEn": "Ham and cheese sandwich",
+          "price": 5.0,
+          "image": ""
+        },
+        {
+          "id": "p9",
+          "name": "Panino Wurstel",
+          "nameEn": "Hot dog / Sausage sandwich",
+          "price": 5.0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "burger-pesce",
+      "title": "I Nostri Burger di Pesce",
+      "subtitle": "Street Food Fish Burger",
+      "items": [
+        {
+          "id": "b1",
+          "name": "Burger di Pesce Spada",
+          "nameEn": "Swordfish burger",
+          "price": 10.0,
+          "image": ""
+        },
+        {
+          "id": "b2",
+          "name": "Burger di Salmone",
+          "nameEn": "Salmon burger",
+          "price": 10.0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "frittura-coppo",
+      "title": "Frittura in Coppo",
+      "subtitle": "Fried Seafood Cones",
+      "items": [
+        {
+          "id": "c1",
+          "name": "Coppo Calamari e Gamberetti",
+          "nameEn": "Fried squid and small shrimps cone",
+          "price": 11.0,
+          "image": ""
+        },
+        {
+          "id": "c2",
+          "name": "Coppo di Frittura Mista",
+          "nameEn": "Mixed fried fish cone",
+          "price": 11.0,
+          "image": ""
+        },
+        {
+          "id": "c3",
+          "name": "Coppo Solo Calamari",
+          "nameEn": "Fried squid only cone",
+          "price": 11.0,
+          "image": ""
+        },
+        {
+          "id": "c4",
+          "name": "Arrosticini di Totani e Patatine",
+          "nameEn": "Squid skewers served with fries",
+          "price": 11.0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sfiziosita-fritte",
+      "title": "Sfiziosità Fritte",
+      "subtitle": "Street Specialties",
+      "items": [
+        {
+          "id": "s1",
+          "name": "Panelle Fritte",
+          "nameEn": "Fried chickpea fritters",
+          "price": 5.0,
+          "image": ""
+        },
+        {
+          "id": "s2",
+          "name": "Pane e Panelle",
+          "nameEn": "Traditional bread roll with panelle",
+          "price": 6.0,
+          "image": ""
+        },
+        {
+          "id": "s3",
+          "name": "Patatine Fritte",
+          "nameEn": "French fries cone",
+          "price": 3.0,
+          "image": ""
+        },
+        {
+          "id": "s4",
+          "name": "Nuggets di Pollo e Patatine",
+          "nameEn": "Chicken nuggets and french fries",
+          "price": 8.0,
+          "image": ""
+        },
+        {
+          "id": "s5",
+          "name": "Straccetti di Pollo e Patatine",
+          "nameEn": "Chicken strips and french fries",
+          "price": 8.0,
+          "image": ""
+        },
+        {
+          "id": "s6",
+          "name": "Verdure Pastellate Mix",
+          "nameEn": "Mixed battered fried treats",
+          "price": 10.0,
+          "image": "",
+          "description": "Anelli di cipolla, cavolfiore panato, mozzarella stick, pepite di pulled pork, pepite di formaggio, peperoncini ripieni di formaggio cremoso"
+        }
+      ]
+    },
+    {
+      "id": "insalate",
+      "title": "Le Insalate",
+      "subtitle": "Salad",
+      "items": [
+        {
+          "id": "i1",
+          "name": "Insalata Mista",
+          "nameEn": "Mixed salad",
+          "price": 7.0,
+          "image": "",
+          "description": "Lattuga, pomodoro, mais, scaglie di grana, tonno"
+        }
+      ]
+    },
+    {
+      "id": "birre-vini",
+      "title": "Birre & Vini",
+      "subtitle": "Beers & Wines",
+      "items": [
+        {
+          "id": "v1",
+          "name": "Birre Premium (Ceres, Corona, Tennent's)",
+          "nameEn": "Premium Beers",
+          "price": 4.0,
+          "image": ""
+        },
+        {
+          "id": "v2",
+          "name": "Birre Standard (Heineken, Beck's, Peroni, Moretti)",
+          "nameEn": "Standard Beers",
+          "price": 3.0,
+          "image": ""
+        },
+        {
+          "id": "v3",
+          "name": "Birra dello Stretto",
+          "nameEn": "Typical Sicilian Beer",
+          "price": 3.0,
+          "image": ""
+        },
+        {
+          "id": "v4",
+          "name": "Aperol Spritz / Campari Spritz",
+          "nameEn": "Spritz Cocktail",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "v5",
+          "name": "Gin Tonic",
+          "nameEn": "Gin Tonic Cocktail",
+          "price": 7.0,
+          "image": ""
+        },
+        {
+          "id": "v6",
+          "name": "Prosecchin (0.20 L)",
+          "nameEn": "Small Prosecco",
+          "price": 6.0,
+          "image": ""
+        },
+        {
+          "id": "v7",
+          "name": "Prosecco Bottiglia (0.75 L)",
+          "nameEn": "Prosecco Bottle",
+          "price": 16.0,
+          "image": ""
+        },
+        {
+          "id": "v8",
+          "name": "Vino Bianco Grillo",
+          "nameEn": "Local White Wine",
+          "price": 15.0,
+          "image": ""
+        },
+        {
+          "id": "v9",
+          "name": "Spumante Dry",
+          "nameEn": "Dry Sparkling Wine",
+          "price": 15.0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "bibite",
+      "title": "Bibite",
+      "subtitle": "Soft drinks",
+      "items": [
+        {
+          "id": "d1",
+          "name": "Acqua Naturale / Frizzante",
+          "nameEn": "Still / Sparkling Water",
+          "price": 1.2,
+          "image": ""
+        },
+        {
+          "id": "d2",
+          "name": "Coca-Cola • Fanta • Sprite",
+          "nameEn": "Sodas",
+          "price": 2.5,
+          "image": ""
+        },
+        {
+          "id": "d3",
+          "name": "Red Bull",
+          "nameEn": "Energy drink",
+          "price": 3.5,
+          "image": ""
+        },
+        {
+          "id": "d4",
+          "name": "Mandarino Verde",
+          "nameEn": "Green mandarin local soda",
+          "price": 2.5,
+          "image": ""
+        },
+        {
+          "id": "d5",
+          "name": "Limonata • Chinotto",
+          "nameEn": "Traditional soft drinks",
+          "price": 2.5,
+          "image": ""
+        },
+        {
+          "id": "d6",
+          "name": "Lemonsoda • Tonica",
+          "nameEn": "Lemon soda / Tonic water",
+          "price": 2.5,
+          "image": ""
+        },
+        {
+          "id": "d7",
+          "name": "Estathé Limone / Pesca",
+          "nameEn": "Ice tea lemon or peach",
+          "price": 2.5,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "amari-caffe",
+      "title": "Amari & Caffè",
+      "subtitle": "Digestifs",
+      "items": [
+        {
+          "id": "a1",
+          "name": "Amaro del Capo",
+          "nameEn": "Italian herbal liqueur",
+          "price": 4.0,
+          "image": ""
+        },
+        {
+          "id": "a2",
+          "name": "Limoncello",
+          "nameEn": "Lemon liqueur shot",
+          "price": 3.5,
+          "image": ""
+        },
+        {
+          "id": "a3",
+          "name": "Crema di Caffè",
+          "nameEn": "Cold coffee cream",
+          "price": 2.5,
+          "image": ""
+        },
+        {
+          "id": "a4",
+          "name": "Caffè Espresso",
+          "nameEn": "Espresso coffee",
+          "price": 1.3,
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "allergenNotice": {
+    "it": "I nostri piatti possono contenere come ingredienti o in tracce per contaminazione crociata sostanze allergeniche tra cui: cereali contenenti glutine, crostacei, uova, pesce, arachidi, soia, latte, frutta a guscio, sedano, senape, sesamo, solfiti, lupini e molluschi.",
+    "en": "Our dishes may contain as ingredients or traces due to cross-contamination: gluten, crustaceans, eggs, fish, peanuts, soy, milk, nuts, celery, mustard, sesame, sulfites, lupins and mollusks."
+  },
+  "tableServiceCharge": 1.0
+}
