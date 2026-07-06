@@ -11,63 +11,81 @@
           "name": "Panino con Carne di Cavallo",
           "nameEn": "Horse meat sandwich",
           "price": 7.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con carne di cavallo, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with horse meat, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "p2",
           "name": "Panino con Polpette di Cavallo",
           "nameEn": "Horse meatballs sandwich",
           "price": 7.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con polpette di cavallo, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with horse meatballs, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "p3",
           "name": "Panino Salsiccia Semplice",
           "nameEn": "Plain sausage sandwich",
           "price": 7.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con salsiccia semplice, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with plain sausage, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "p4",
           "name": "Panino Salsiccia Condita",
           "nameEn": "Seasoned sausage sandwich",
           "price": 7.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con salsiccia condita, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with seasoned sausage, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "p5",
           "name": "Panino Cotoletta di Pollo",
           "nameEn": "Chicken cutlet sandwich",
           "price": 7.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con cotoletta di pollo, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with chicken cutlet, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "p6",
           "name": "Hamburgher Classico",
           "nameEn": "Hamburger",
           "price": 7.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con hamburger classico, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with classic hamburger, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "p7",
           "name": "Panino Straccetti di Pollo DELUXE",
           "nameEn": "Special chicken strips sandwich",
           "price": 7.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con straccetti di pollo DELUXE, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with special chicken strips, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "p8",
           "name": "Panino Prosciutto e Formaggio",
           "nameEn": "Ham and cheese sandwich",
           "price": 5.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con prosciutto e formaggio, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with ham and cheese, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "p9",
           "name": "Panino Wurstel",
           "nameEn": "Hot dog / Sausage sandwich",
           "price": 5.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con wurstel, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with hot dog / sausage, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         }
       ]
     },
@@ -81,14 +99,34 @@
           "name": "Burger di Pesce Spada",
           "nameEn": "Swordfish burger",
           "price": 10.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con burger di pesce spada, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with swordfish burger, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         },
         {
           "id": "b2",
           "name": "Burger di Salmone",
           "nameEn": "Salmon burger",
           "price": 10.0,
-          "image": ""
+          "image": "",
+          "description": "Pane bianco con burger di salmone, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with salmon burger, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
+        }
+      ]
+    },
+    {
+      "id": "kebab",
+      "title": "Kebab",
+      "subtitle": "Kebab",
+      "items": [
+        {
+          "id": "k1",
+          "name": "Kebab di Pollo",
+          "nameEn": "Chicken kebab",
+          "price": 7.0,
+          "image": "",
+          "description": "Kebab di pollo servito in piadina o panino con patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "Chicken kebab served in a wrap or bread with french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         }
       ]
     },
@@ -187,7 +225,7 @@
           "id": "i1",
           "name": "Insalata Mista",
           "nameEn": "Mixed salad",
-          "price": 7.0,
+          "price": 8.0,
           "image": "",
           "description": "Lattuga, pomodoro, mais, scaglie di grana, tonno",
           "descriptionEn": "Lettuce, tomato, corn, grana flakes, tuna"
@@ -204,14 +242,14 @@
           "name": "Birre Premium (Ceres, Corona, Tennent's)",
           "nameEn": "Premium Beers",
           "price": 4.0,
-          "image": ""
+          "image": "ceres.webp"
         },
         {
           "id": "v2",
           "name": "Birre Standard (Heineken, Beck's, Peroni, Moretti)",
           "nameEn": "Standard Beers",
           "price": 3.0,
-          "image": ""
+          "image": "peroni.webp"
         },
         {
           "id": "v3",
@@ -239,7 +277,7 @@
           "name": "Prosecchin (0.20 L)",
           "nameEn": "Small Prosecco",
           "price": 6.0,
-          "image": ""
+          "image": "prosecchin.webp"
         },
         {
           "id": "v7",
@@ -274,49 +312,49 @@
           "name": "Acqua Naturale / Frizzante",
           "nameEn": "Still / Sparkling Water",
           "price": 1.2,
-          "image": ""
+          "image": "acqua.webp"
         },
         {
           "id": "d2",
           "name": "Coca-Cola • Fanta • Sprite",
           "nameEn": "Sodas",
           "price": 2.5,
-          "image": ""
+          "image": "coca.webp"
         },
         {
           "id": "d3",
           "name": "Red Bull",
           "nameEn": "Energy drink",
           "price": 3.5,
-          "image": ""
+          "image": "redbull.webp"
         },
         {
           "id": "d4",
           "name": "Mandarino Verde",
           "nameEn": "Green mandarin local soda",
           "price": 2.5,
-          "image": ""
+          "image": "mandarino-verde.webp"
         },
         {
           "id": "d5",
           "name": "Limonata • Chinotto",
           "nameEn": "Traditional soft drinks",
           "price": 2.5,
-          "image": ""
+          "image": "chinotto.webp"
         },
         {
           "id": "d6",
           "name": "Lemonsoda • Tonica",
           "nameEn": "Lemon soda / Tonic water",
           "price": 2.5,
-          "image": ""
+          "image": "lemon-soda.webp"
         },
         {
           "id": "d7",
           "name": "Estathé Limone / Pesca",
           "nameEn": "Ice tea lemon or peach",
           "price": 2.5,
-          "image": ""
+          "image": "estathe.webp"
         }
       ]
     },
@@ -330,28 +368,123 @@
           "name": "Amaro del Capo",
           "nameEn": "Italian herbal liqueur",
           "price": 4.0,
-          "image": ""
+          "image": "amaro-del-capo.jpg"
         },
         {
           "id": "a2",
           "name": "Limoncello",
           "nameEn": "Lemon liqueur shot",
           "price": 3.5,
-          "image": ""
+          "image": "limoncello.webp"
         },
         {
           "id": "a3",
           "name": "Crema di Caffè",
           "nameEn": "Cold coffee cream",
           "price": 2.5,
-          "image": ""
+          "image": "crema-caffe.webp"
         },
         {
           "id": "a4",
           "name": "Caffè Espresso",
           "nameEn": "Espresso coffee",
           "price": 1.3,
-          "image": ""
+          "image": "caffe-espresso.webp"
+        }
+      ]
+    },
+    {
+      "id": "salse",
+      "title": "Le Nostre Salse",
+      "subtitle": "Our Sauces",
+      "items": [
+        {
+          "id": "sl1",
+          "name": "Salsa Messicana",
+          "nameEn": "Mexican sauce",
+          "image": "salsa-messicana.jpg",
+          "description": "Salsa leggermente piccante a base di pomodoro, peperoni, cipolla e peperoncino.",
+          "descriptionEn": "Mildly spicy sauce made with tomatoes, bell peppers, onion, and chili."
+        },
+        {
+          "id": "sl2",
+          "name": "Salsa Burger Classica",
+          "nameEn": "Classic burger sauce",
+          "image": "salsa-burger.jpg",
+          "description": "Salsa cremosa e ricca con maionese, pomodoro, senape, cipolla e un tocco di erbe aromatiche.",
+          "descriptionEn": "Rich and creamy sauce with mayonnaise, tomato, mustard, onion, and a touch of aromatic herbs."
+        },
+        {
+          "id": "sl3",
+          "name": "Senape",
+          "nameEn": "Mustard",
+          "image": "senape.jpg",
+          "description": "Salsa classica dal gusto deciso e speziato, preparata con semi di senape, aceto e spezie.",
+          "descriptionEn": "Classic sharp and tangy sauce made from mustard seeds, vinegar, and spices."
+        },
+        {
+          "id": "sl4",
+          "name": "Salsa al Cheddar",
+          "nameEn": "Cheddar cheese sauce",
+          "image": "salsa-cheddar.jpg",
+          "description": "Salsa super cremosa e filante dal sapore intenso e inconfondibile di formaggio Cheddar.",
+          "descriptionEn": "Super creamy and smooth sauce with the intense and unmistakable flavor of Cheddar cheese."
+        },
+        {
+          "id": "sl5",
+          "name": "Salsa Barbecue",
+          "nameEn": "BBQ sauce",
+          "image": "salsa-bbq.jpg",
+          "description": "Salsa densa dal caratteristico gusto dolce, affumicato e leggermente agrodolce.",
+          "descriptionEn": "Thick sauce with a distinctive sweet, smoky, and tangy flavor profile."
+        },
+        {
+          "id": "sl6",
+          "name": "Salsa Yogurt",
+          "nameEn": "Yogurt sauce",
+          "image": "salsa-yogurt.jpg",
+          "description": "Salsa fresca e leggera a base di yogurt naturale ed erbe fini.",
+          "descriptionEn": "Fresh and light sauce made with plain yogurt and fine herbs."
+        },
+        {
+          "id": "sl7",
+          "name": "Salsa Harissa",
+          "nameEn": "Harissa sauce",
+          "image": "salsa-harissa.jpg",
+          "description": "Salsa tipica nordafricana molto piccante a base di peperoncino rosso fresco, aglio e spezie.",
+          "descriptionEn": "Traditional North African hot sauce made from fresh red chili peppers, garlic, and spices."
+        },
+        {
+          "id": "sl8",
+          "name": "Salsa Tzatziki",
+          "nameEn": "Tzatziki sauce",
+          "image": "salsa-tzatziki.jpg",
+          "description": "Fresca salsa di origine greca preparata con yogurt denso, cetrioli grattugiati, aglio e menta o aneto.",
+          "descriptionEn": "Fresh Greek sauce made with thick yogurt, grated cucumbers, garlic, and mint or dill."
+        },
+        {
+          "id": "sl9",
+          "name": "Salsa Caesar",
+          "nameEn": "Caesar sauce",
+          "image": "salsa-caesar.jpg",
+          "description": "Salsa cremosa e saporita con note di formaggio grana, aglio, limone e un tocco di acciughe.",
+          "descriptionEn": "Creamy and savory sauce with notes of parmesan cheese, garlic, lemon, and a hint of anchovies."
+        },
+        {
+          "id": "sl10",
+          "name": "Maionese Classica",
+          "nameEn": "Classic mayonnaise",
+          "image": "maionese.png",
+          "description": "La più famosa delle salse fredde, cremosa e delicata, a base di olio, uova e limone.",
+          "descriptionEn": "The most famous cold sauce, creamy and delicate, made with oil, eggs, and lemon juice."
+        },
+        {
+          "id": "sl11",
+          "name": "Ketchup",
+          "nameEn": "Ketchup",
+          "image": "ketchup.png",
+          "description": "La classica salsa agrodolce a base di pomodoro, zucchero, aceto e spezie.",
+          "descriptionEn": "The timeless sweet and tangy sauce made from tomatoes, sugar, vinegar, and spices."
         }
       ]
     }
