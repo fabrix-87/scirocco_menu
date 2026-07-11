@@ -90,31 +90,6 @@
       ]
     },
     {
-      "id": "burger-pesce",
-      "title": "I Nostri Burger di Pesce",
-      "subtitle": "Street Food Fish Burger",
-      "items": [
-        {
-          "id": "b1",
-          "name": "Burger di Pesce Spada",
-          "nameEn": "Swordfish burger",
-          "price": 10.0,
-          "image": "",
-          "description": "Pane bianco con burger di pesce spada, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
-          "descriptionEn": "White bread with swordfish burger, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
-        },
-        {
-          "id": "b2",
-          "name": "Burger di Salmone",
-          "nameEn": "Salmon burger",
-          "price": 10.0,
-          "image": "",
-          "description": "Pane bianco con burger di salmone, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
-          "descriptionEn": "White bread with salmon burger, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
-        }
-      ]
-    },
-    {
       "id": "kebab",
       "title": "Kebab",
       "subtitle": "Kebab",
@@ -213,6 +188,31 @@
           "image": "",
           "description": "Anelli di cipolla, cavolfiore panato, mozzarella stick, pepite di pulled pork, pepite di formaggio, peperoncini ripieni di formaggio cremoso",
           "descriptionEn": "Onion rings, breaded cauliflower, mozzarella sticks, pulled pork bites, cheese bites, stuffed jalapeños"
+        }
+      ]
+    },
+    {
+      "id": "burger-pesce",
+      "title": "I Nostri Burger di Pesce",
+      "subtitle": "Street Food Fish Burger",
+      "items": [
+        {
+          "id": "b1",
+          "name": "Burger di Pesce Spada",
+          "nameEn": "Swordfish burger",
+          "price": 10.0,
+          "image": "",
+          "description": "Pane bianco con burger di pesce spada, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with swordfish burger, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
+        },
+        {
+          "id": "b2",
+          "name": "Burger di Salmone",
+          "nameEn": "Salmon burger",
+          "price": 10.0,
+          "image": "",
+          "description": "Pane bianco con burger di salmone, patatine fritte e condimenti a scelta tra: cipolla croccante, cipolla alla piastra, pomodoro, lattuga, funghi trifolati e formaggio (provola, svizzero, cheddar). Salse a scelta incluse.",
+          "descriptionEn": "White bread with salmon burger, french fries and toppings of your choice between: crispy onion, grilled onion, tomato, lettuce, sautéed mushrooms and cheese (provola, Swiss, cheddar). Choice of sauces included."
         }
       ]
     },
@@ -332,14 +332,14 @@
           "id": "d4",
           "name": "Mandarino Verde",
           "nameEn": "Green mandarin local soda",
-          "price": 2.5,
+          "price": 3,
           "image": "mandarino-verde.webp"
         },
         {
           "id": "d5",
           "name": "Limonata • Chinotto",
           "nameEn": "Traditional soft drinks",
-          "price": 2.5,
+          "price": 3,
           "image": "chinotto.webp"
         },
         {
